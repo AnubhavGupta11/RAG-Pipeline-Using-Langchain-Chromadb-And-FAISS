@@ -1,1 +1,1 @@
-# Updated-Langchain
+# Langchain RAG Using Chromadb and FAISS
